@@ -9,6 +9,6 @@
 
 <a href="https://discuss.codecademy.com/t/guide-how-developer-teams-work/394900">Guide: Who Does What on a Developer Team (and How They Work)</a>
 
-[![Development Lifecycle](https://www.youtube.com/embed/hpn8MPHOpDo/0.jpg)](https://www.youtube.com/embed/hpn8MPHOpDo)
+[![Development Lifecycle](https://img.youtube.com/embed/hpn8MPHOpDo/0.jpg)](https://www.youtube.com/embed/hpn8MPHOpDo)
 
 [![Blinking LEDs](http://img.youtube.com/vi/XAMVzS13HY0/0.jpg)](http://www.youtube.com/watch?v=XAMVzS13HY0 "Blinking LEDs")
