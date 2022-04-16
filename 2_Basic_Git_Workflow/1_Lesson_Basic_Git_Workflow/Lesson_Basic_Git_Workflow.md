@@ -79,3 +79,53 @@ In the output, notice that Git indicates the changes to be committed with “new
 
 <img src="git_add.png">
 
+# Section 6
+
+git diff
+Good work! Now you know how to add a file to the staging area.
+
+Imagine that we type another line in scene-1.txt. Since the file is tracked, we can check the differences between the working directory and the staging area with:
+
+git diff filename
+Here, filename is the actual name of the file. If the name of my file was changes.txt the command would be
+
+git diff changes.txt
+
+Instructions
+1. In the code editor, add this text to scene-1.txt:
+
+Dumblediff: I should've known you would be here, Professor McGonagit.
+Click Run.
+
+2. From the terminal, use the new command to check the difference between the working directory and the staging area.
+
+Notice the output:
+
+“Harry Programmer and the Sorcerer’s Code: Scene 1” is in the staging area, as indicated in white.
+Changes to the file are marked with a + and are indicated in green.
+Checkpoint 3 Passed
+
+3. Add the changes to the staging area in Git. Recall that you will need to identify the file by its name.
+
+<img src="git_diff.png">
+
+# Section 7
+
+git commit
+A commit is the last step in our Git workflow. A commit permanently stores changes from the staging area inside the repository.
+
+git commit is the command we’ll do next. However, one more bit of code is needed for a commit: the option -m followed by a message. Here’s an example:
+
+git commit -m "Complete first line of dialogue"
+Standard Conventions for Commit Messages:
+
+Must be in quotation marks
+Written in the present tense
+Should be brief (50 characters or less) when using -m
+
+Instructions
+1. Make your first commit! From the terminal, type the command along with a commit message. The message should describe the point of the commit.
+
+If you’re having trouble thinking of a good commit message, reflect on how the project has changed since it began.
+
+<img src="Git_Commit.png">
