@@ -27,6 +27,8 @@ Notice the output:
 Initalized empty Git repository in /home/ccuser/workspace/sorcerers-code/.git/
 The Git project was created. Click Next to continue.
 
+<img src=".\Git_Init.png">
+
 # Section 3
 
 BASIC GIT WORKFLOW
