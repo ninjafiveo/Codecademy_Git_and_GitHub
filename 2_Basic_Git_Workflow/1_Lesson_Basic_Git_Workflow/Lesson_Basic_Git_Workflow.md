@@ -39,7 +39,7 @@ The Git workflow consists of editing files in the working directory, adding file
 
 Take a look at the diagram. Before we move on, it will help to be familiar with the three parts of the Git workflow. Click Next to continue.
 
-<img href=".\Basic_Git_Workflow.png">
+<img href="https://github.com/ninjafiveo/Codecademy_Git_and_GitHub/blob/7faab5e6075c299e677e7a7a86b2e8c3ce5e9239/2_Basic_Git_Workflow/1_Lesson_Basic_Git_Workflow/Basic_Git_Workflow.png">
 
 
 
