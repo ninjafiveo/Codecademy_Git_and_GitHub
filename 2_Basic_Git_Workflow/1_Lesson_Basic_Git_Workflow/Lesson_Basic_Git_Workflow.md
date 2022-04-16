@@ -61,4 +61,21 @@ In the output, notice the file in red under untracked files. Untracked means tha
 
 <img src="./Git_Status.png">
 
+# Section 5
+git add
+In order for Git to start tracking scene-1.txt, the file needs to be added to the staging area.
+
+We can add a file to the staging area with:
+
+git add filename
+The word filename here refers to the name of the file you are editing, such as scene-1.txt.
+
+Instructions
+1. Add scene-1.txt to the staging area in Git. Recall that you will need to identify the file by its name.
+
+2. Check the status of the project in Git.
+
+In the output, notice that Git indicates the changes to be committed with “new file: scene-1.txt” in green text. Here Git tells us the file was added to the staging area.
+
+<img src="git_add.png">
 
