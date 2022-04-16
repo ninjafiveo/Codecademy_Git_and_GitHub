@@ -23,8 +23,8 @@ You will see multiple files listed in the output as “Untracked”.
 
 # 3. Add each file to the Git staging area.
 <img src="git_add_all_files.png">
-! Note: using "git add ." rather than "git add disclaimer.txt", "git add instruction.txt" etc, will add all the files to the staging area.
-
+<strong> Note: using "git add ." rather than "git add disclaimer.txt", "git add instruction.txt" etc, will add all the files to the staging area.
+</strong>
 # 4. Check the status of the Git project again.
 
 # 5. Make a commit.
