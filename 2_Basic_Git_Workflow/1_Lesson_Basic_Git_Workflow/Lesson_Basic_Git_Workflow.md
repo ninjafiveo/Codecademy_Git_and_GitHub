@@ -57,6 +57,6 @@ From the terminal, check the status of the sorcerers-code project.
 
 In the output, notice the file in red under untracked files. Untracked means that Git sees the file but has not started tracking changes yet.
 
-<img src=".\Basic_Git_Workflow.pngg">
+<img src="./Git_Status.png">
 
 
