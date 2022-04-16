@@ -1,6 +1,6 @@
 <h1>Lesson: Basic Git Workflow</h1>
 
-# Section 1
+# Section 1: Hello Git
 Hello Git
 Git is a software that allows you to keep track of changes made to a project over time. Git works by recording the changes you make to a project, storing those changes, then allowing you to reference them as needed.
 
@@ -13,7 +13,7 @@ In scene-1.txt, add this text:
 Harry Programmer and the Sorcerer’s Code: Scene 1
 Then press enter to create a new empty line. Once you’ve created the new line, click Run.
 
-# Section 2
+# Section 2: git init
 git init
 Now that we have started working on the screenplay, let’s turn the sorcerers-code directory into a Git project. We do this with:
 
@@ -29,7 +29,7 @@ The Git project was created. Click Next to continue.
 
 <img src=".\Git_Init.png">
 
-# Section 3
+# Section 3: Git Workflow
 
 BASIC GIT WORKFLOW
 Git Workflow
@@ -47,7 +47,7 @@ Take a look at the diagram. Before we move on, it will help to be familiar with 
 
 <img src="./Basic_Git_Workflow.png">
 
-# Section 4
+# Section 4: git status
 
 git status
 As you write the screenplay, you will be changing the contents of the working directory. You can check the status of those changes with:
@@ -61,7 +61,7 @@ In the output, notice the file in red under untracked files. Untracked means tha
 
 <img src="./Git_Status.png">
 
-# Section 5
+# Section 5: git add
 git add
 In order for Git to start tracking scene-1.txt, the file needs to be added to the staging area.
 
@@ -79,7 +79,7 @@ In the output, notice that Git indicates the changes to be committed with “new
 
 <img src="git_add.png">
 
-# Section 6
+# Section 6: git diff
 
 git diff
 Good work! Now you know how to add a file to the staging area.
@@ -109,7 +109,7 @@ Checkpoint 3 Passed
 
 <img src="git_diff.png">
 
-# Section 7
+# Section 7: git commit
 
 git commit
 A commit is the last step in our Git workflow. A commit permanently stores changes from the staging area inside the repository.
@@ -129,3 +129,35 @@ Instructions
 If you’re having trouble thinking of a good commit message, reflect on how the project has changed since it began.
 
 <img src="Git_Commit.png">
+
+# Section 8: git log
+
+git log
+Often with Git, you’ll need to refer back to an earlier version of a project. Commits are stored chronologically in the repository and can be viewed with:
+
+git log
+
+Instructions
+1. From the terminal, log a list of your commits.
+
+In the output, notice:
+
+* A 40-character code, called a SHA, that uniquely identifies the commit. This appears in orange text.
+* The commit author (you!)
+* The date and time of the commit
+* The commit message
+
+<img src="git_log.png">
+
+# Section 9: Generalizations
+
+You have now been introduced to the fundamental Git workflow. You learned a lot! Let’s take a moment to generalize:
+
+Git is the industry-standard version control system for web developers
+Use Git commands to help keep track of changes made to a project:
+* git init creates a new Git repository
+* git status inspects the contents of the working directory and staging area
+* git add adds files from the working directory to the staging area
+* git diff shows the difference between the working directory and the staging area
+* git commit permanently stores file changes from the staging area in the repository
+* git log shows a list of all previous commits
