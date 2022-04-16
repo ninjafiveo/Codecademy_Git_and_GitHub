@@ -8,4 +8,4 @@
 # Who does what on a developer team?
 
 <a href="https://discuss.codecademy.com/t/guide-how-developer-teams-work/394900">Guide: Who Does What on a Developer Team (and How They Work)</a>
-<video src="https://www.youtube.com/embed/hpn8MPHOpDo" title="YouTube video player">
+[![Development Lifecycle](https://www.youtube.com/embed/hpn8MPHOpDo.jpg)](https://www.youtube.com/embed/hpn8MPHOpDo)
