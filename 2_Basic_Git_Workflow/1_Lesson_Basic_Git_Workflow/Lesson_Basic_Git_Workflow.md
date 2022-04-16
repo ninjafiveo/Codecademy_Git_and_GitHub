@@ -47,6 +47,16 @@ Take a look at the diagram. Before we move on, it will help to be familiar with 
 
 # Section 4
 
+git status
+As you write the screenplay, you will be changing the contents of the working directory. You can check the status of those changes with:
 
+git status
+Instructions
+1.
+From the terminal, check the status of the sorcerers-code project.
+
+In the output, notice the file in red under untracked files. Untracked means that Git sees the file but has not started tracking changes yet.
+
+<img src=".\Basic_Git_Workflow.pngg">
 
 
