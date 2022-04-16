@@ -1,3 +1,4 @@
+<h1>Lesson: Basic Git Workflow</h1>
 # Section 1
 Hello Git
 Git is a software that allows you to keep track of changes made to a project over time. Git works by recording the changes you make to a project, storing those changes, then allowing you to reference them as needed.
@@ -42,5 +43,9 @@ Take a look at the diagram. Before we move on, it will help to be familiar with 
 <!-- <img src="https://github.com/ninjafiveo/Codecademy_Git_and_GitHub/blob/7faab5e6075c299e677e7a7a86b2e8c3ce5e9239/2_Basic_Git_Workflow/1_Lesson_Basic_Git_Workflow/Basic_Git_Workflow.png"> -->
 
 <img src="./Basic_Git_Workflow.png">
+
+# Section 4
+
+
 
 
