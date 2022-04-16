@@ -1,1 +1,11 @@
+# Cheatsheet
 <a href="https://www.codecademy.com/learn/learn-git/modules/introduction-git-github/cheatsheet">Git Hub Cheatsheet</a>
+
+# What does it mean to be a Git project?
+
+<a href="https://discuss.codecademy.com/t/what-does-it-mean-to-be-a-git-project/361273">What does it mean to be a Git project?</a>
+
+# Who does what on a developer team?
+
+<a href="https://discuss.codecademy.com/t/guide-how-developer-teams-work/394900">Guide: Who Does What on a Developer Team (and How They Work)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hpn8MPHOpDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
