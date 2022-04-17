@@ -1,27 +1,27 @@
-# Q1 In Git, a commit
+# Q1: In Git, a commit
 
-A. Temporarily stores changes from the staging area in the repository
-B. Permanently stores changes from the staging area in the repository
-C. Records only code with correct syntax
-D. Saves every file in your working directory
+A. Temporarily stores changes from the staging area in the repository<br>
+B. Permanently stores changes from the staging area in the repository<br>
+C. Records only code with correct syntax<br>
+D. Saves every file in your working directory<br>
 
 Answer: B: Permanently stores changes from the staging area in the repository
 
-# Q2 The output below is typical of which command?
+# Q2: The output below is typical of which command?
 ```
 commit bda95786432d142bbff996ad32045fa4f32ec619
 Author: codecademy <ccuser@codecademy.com>
 Date: on Nov 16 13:13:33 2015 -0500
 First commit
 ```
-A. git status
-B. git add filename
-C. git log
-D. git diff
+A. git status<br>
+B. git add filename<br>
+C. git log<br>
+D. git diff<br>
 
 Answer: C. git log
 
-# Q3 The command “git status” shows
+# Q3: The command “git status” shows
 
 A. Untracked files and file changes staged for commit
 B. Untracked files only
@@ -30,7 +30,7 @@ D. A Git project’s commit history
 
 Answer: A. Untracked files and file changes staged for commit
 
-# Q4 Why use Git?
+# Q4: Why use Git?
 
 A. To provide “training wheels” for complex coding concepts
 B. To test proper syntax in your code
@@ -39,7 +39,7 @@ D. To keep track of changes made to a project over time
 
 Answer: D. To keep track of changes made to a project over time
 
-# Q5 What does “git init” do
+# Q5: What does “git init” do
 
 A. Commit your files to the repository
 B. Add all files to the staging area
@@ -48,7 +48,7 @@ D. Delete a Git project
 
 Answer: C. Initialize a new Git project
 
-# Q6 In the code below, what will you replace “filename” with?
+# Q6: In the code below, what will you replace “filename” with?
 
 ```
 git add filename
@@ -61,7 +61,7 @@ D. The file you wish to remove from the working directory
 
 Answer: A. The file you wish to add to the staging area
 
-# Q7 What’s wrong with the code below?
+# Q7: What’s wrong with the code below?
 ```
 git commit -m Add new scene to screenplay
 ```
@@ -73,7 +73,7 @@ D. The “-m” option is not necessary here
 
 Answer: C. The commit message lacks quotation marks
 
-# Q8 What is the purpose of Git’s staging area?
+# Q8: What is the purpose of Git’s staging area?
 
 A. To stage file changes for a commit
 B. To list notes about your project
@@ -82,7 +82,7 @@ D. To show a list of your project’s commits
 
 Answer: A. To stage file changes for a commit
 
-# Q9 Where in Git do you typically create, edit, delete, and organize project files?
+# Q9: Where in Git do you typically create, edit, delete, and organize project files?
 
 A. The .gitignore directory
 B. The initialize folder
